@@ -48,7 +48,7 @@
     "object-enhancements" : "*"
   },
   "devDependencies": {
-    "tap": "~0.4.4"
+    "tap": "~8.0.0"
   },
   "jshintConfig": {
       "white": true,
